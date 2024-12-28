@@ -1,5 +1,3 @@
----
-
 # **Computer Vision Text Extract 📸📝**
 
 ## Overview 🌟
@@ -36,5 +34,3 @@
 Here’s a screenshot of the app’s user interface showing how the extracted text is displayed along with the **Download** button once the process is complete:
 
 ![UI Screenshot](screenshot/a.png)
-
----
